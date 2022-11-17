@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dyez1110@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/dylan-bermudez-996602230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-bermudez-996602230" height="30" width="40" /></a>
 <a href="https://instagram.com/dylanbc11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylanbc11" height="30" width="40" /></a>
