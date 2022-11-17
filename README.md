@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone! 👋 I'm Dylan</h1>
-<h3 align="center">A man that never surrender.</h3>
+<h3 align="center">I love programming, mathematics and football.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanmpp&label=Profile%20views&color=0e75b6&style=flat" alt="dylanmpp" /> </p>
 
