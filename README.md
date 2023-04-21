@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanmpp&label=Profile%20views&color=0e75b6&style=flat" alt="dylanmpp" /> </p>
 
-- 🌱 I’m currently learning **Flutter and JS.**
+- 🌱 I’m currently learning **Scala and JS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dylanMPP](https://github.com/dylanMPP)
 
