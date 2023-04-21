@@ -36,12 +36,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML 5
