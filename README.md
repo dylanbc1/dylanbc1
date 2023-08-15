@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/javascript-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="HTML 5" />
       </a>
       <br>JavaScript
     </td>
