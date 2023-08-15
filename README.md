@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanmpp&label=Profile%20views&color=0e75b6&style=flat" alt="dylanmpp" /> </p>
 
-- 🌱 I’m currently learning **Scala and JS.**
+- 🌱 I’m currently learning **React and Django.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dylanMPP](https://github.com/dylanMPP)
 
@@ -33,6 +33,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/javascript-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
