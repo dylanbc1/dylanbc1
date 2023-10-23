@@ -2,17 +2,17 @@
 <h3 align="center">Everything you need, nothing you don't.</h3>
 <h3 align="center">I love programming, mathematics and football.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanmpp&label=Profile%20views&color=0e75b6&style=flat" alt="dylanmpp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanbc1&label=Profile%20views&color=0e75b6&style=flat" alt="dylanbc1" /> </p>
 
 - 🌱 I’m currently learning **React and Django.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dylanMPP](https://github.com/dylanMPP)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dylanbc1)
 
 - 📫 How to reach me **dyez1110@gmail.com**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/dylan-bermudez-996602230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-bermudez-996602230" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dylan-bc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-bermudez-996602230" height="30" width="40" /></a>
 <a href="https://instagram.com/dylanbc11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylanbc11" height="30" width="40" /></a>
 </p>
 
