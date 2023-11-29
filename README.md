@@ -1,24 +1,26 @@
 <h1 align="center">Hello everyone! 👋 I'm Dylan</h1>
 <h3 align="center">Everything you need, nothing you don't.</h3>
-<h3 align="center">I love programming, mathematics and football.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanbc1&label=Profile%20views&color=0e75b6&style=flat" alt="dylanbc1" /> </p>
+### :space_invader: &nbsp;About Me
 
-- 🌱 I’m currently learning **React and Django.**
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying as Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for programming, math and football.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning React, more about SQL and Data Science.\.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dylanbc1)
-
-- 📫 How to reach me **dyez1110@gmail.com**
-
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/dylan-bc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-bermudez-996602230" height="30" width="40" /></a>
-<a href="https://instagram.com/dylanbc11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylanbc11" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:dyez1110@gmail.com?subject=Hola%20Dylan%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dylanbc_01/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dylan-bc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<hr/>
 
-> Tools, languages, and other things that I like to work with.
+<details>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <br/>
+
+</details>
 
 <table>
   <tr>
