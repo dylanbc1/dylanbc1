@@ -3,10 +3,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-:technologist: &nbsp;Currently studying as Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
+:technologist: &nbsp;Currently studying Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
 :seedling: &nbsp;Love for programming, math and football.\
 :heartbeat: &nbsp;Passionate with problem solving.\
-:writing_hand: &nbsp;Currently learning React, more about SQL and Data Science.
+:writing_hand: &nbsp;Currently learning Data Science and more about React.
 
 <p align="center">
   <a href="mailto:dyez1110@gmail.com?subject=Hola%20Dylan%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
