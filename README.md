@@ -3,10 +3,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying as Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for programming, math and football.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning React, more about SQL and Data Science.\.
+:technologist: &nbsp;Currently studying as Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
+:seedling: &nbsp;Love for programming, math and football.\
+:heartbeat: &nbsp;Passionate with problem solving.\
+:writing_hand: &nbsp;Currently learning React, more about SQL and Data Science.
 
 <p align="center">
   <a href="mailto:dyez1110@gmail.com?subject=Hola%20Dylan%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,11 +16,9 @@
 
 <hr/>
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+### :computer: &nbsp;Main tech knowledge
 
-</details>
+  <br/>
 
 <table>
   <tr>
@@ -44,9 +42,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="HTML 5" />
       </a>
-      <br>HTML 5
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -56,15 +66,22 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Scala
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="Adobe Photoshop" />
+      </a>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
       </a>
       <br>Adobe Illustrator
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="Adobe Photoshop" />
-      </a>
-      <br>Adobe Photoshop
   </tr>
 </table>
 
