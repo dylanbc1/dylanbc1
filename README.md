@@ -42,6 +42,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="HTML 5" />
       </a>
       <br>React
@@ -57,6 +63,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="HTML 5" />
       </a>
       <br>Spring
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
