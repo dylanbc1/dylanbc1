@@ -6,7 +6,7 @@
 :technologist: &nbsp;Currently studying Software Engineering and Telematics Engineering at [ICESI](https://www.icesi.edu.co/es/). \
 :seedling: &nbsp;Love for programming, math and football.\
 :heartbeat: &nbsp;Passionate with problem solving.\
-:writing_hand: &nbsp;Currently learning Data Science and more about React.
+:writing_hand: &nbsp;Currently learning Data Science and more about React and NextJS. Checkout my last project [DMaJor Store](https://www.dmajorstore.online/).
 
 <p align="center">
   <a href="mailto:dyez1110@gmail.com?subject=Hola%20Dylan%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
